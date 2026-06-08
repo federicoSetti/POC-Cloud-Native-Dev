@@ -1,0 +1,6 @@
+@POC_Cloud_native_dev_HostAddress = http://localhost:5025
+
+GET {{POC_Cloud_native_dev_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
